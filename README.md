@@ -37,7 +37,7 @@ Visualize and compare original, noisy, and denoised images.
 ## PROGRAM
 ### Name: KEERTHANA S
 ### Register Number: 212222230066
-```
+```PY
 # Autoencoder for Image Denoising using PyTorch
 
 import torch
